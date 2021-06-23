@@ -1,8 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:e_shop/Admin/uploadItems.dart';
-import 'package:e_shop/Authentication/authenication.dart';
-import 'package:e_shop/Widgets/customTextField.dart';
-import 'package:e_shop/DialogBox/errorDialog.dart';
+import 'package:web_market/Admin/uploadItems.dart';
+import 'package:web_market/Authentication/authenication.dart';
+import 'package:web_market/Widgets/customTextField.dart';
+import 'package:web_market/DialogBox/errorDialog.dart';
 import 'package:flutter/material.dart';
 
 class AdminSignInPage extends StatelessWidget {

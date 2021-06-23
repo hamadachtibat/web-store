@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'login.dart';
 import 'register.dart';
-import 'package:e_shop/Config/config.dart';
+import 'package:web_market/Config/config.dart';
 
 
 class AuthenticScreen extends StatefulWidget {
@@ -28,7 +28,7 @@ class _AuthenticScreenState extends State<AuthenticScreen> {
               ),
             ),
           ),
-          title: Text('e-Shop',
+          title: Text('Web-Store',
           style: TextStyle(
             fontSize: 55,
             fontFamily: "Signatra"

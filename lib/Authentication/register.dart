@@ -1,14 +1,14 @@
 import 'dart:io';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:e_shop/Widgets/customTextField.dart';
-import 'package:e_shop/DialogBox/errorDialog.dart';
-import 'package:e_shop/DialogBox/loadingDialog.dart';
+import 'package:web_market/DialogBox/loadingDialog.dart';
+import 'package:web_market/Config/config.dart';
+import 'package:web_market/DialogBox/errorDialog.dart';
+import 'package:web_market/Widgets/customTextField.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import '../Store/storehome.dart';
-import 'package:e_shop/Config/config.dart';
 
 
 

@@ -1,14 +1,13 @@
-import 'dart:ffi';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:e_shop/Config/config.dart';
-import 'package:e_shop/Orders/placeOrderPayment.dart';
-import 'package:e_shop/Widgets/customAppBar.dart';
-import 'package:e_shop/Widgets/loadingWidget.dart';
-import 'package:e_shop/Widgets/myDrawer.dart';
-import 'package:e_shop/Widgets/wideButton.dart';
-import 'package:e_shop/Models//address.dart';
-import 'package:e_shop/Counters/changeAddresss.dart';
+import 'package:web_market/Config/config.dart';
+import 'package:web_market/Orders/placeOrderPayment.dart';
+import 'package:web_market/Widgets/customAppBar.dart';
+import 'package:web_market/Widgets/loadingWidget.dart';
+import 'package:web_market/Widgets/myDrawer.dart';
+import 'package:web_market/Widgets/wideButton.dart';
+import 'package:web_market/Models//address.dart';
+import 'package:web_market/Counters/changeAddresss.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

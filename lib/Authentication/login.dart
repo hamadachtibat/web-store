@@ -1,12 +1,13 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:e_shop/Admin/adminLogin.dart';
-import 'package:e_shop/Widgets/customTextField.dart';
-import 'package:e_shop/DialogBox/errorDialog.dart';
-import 'package:e_shop/DialogBox/loadingDialog.dart';
+import 'package:web_market/DialogBox/errorDialog.dart';
+import 'package:web_market/Admin/adminLogin.dart';
+import 'package:web_market/Widgets/customTextField.dart';
+import 'package:web_market/DialogBox/errorDialog.dart';
+import 'package:web_market/DialogBox/loadingDialog.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import '../Store/storehome.dart';
-import 'package:e_shop/Config/config.dart';
+import 'package:web_market/Config/config.dart';
 
 
 class Login extends StatefulWidget {

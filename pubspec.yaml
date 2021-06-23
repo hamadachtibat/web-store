@@ -1,4 +1,4 @@
-name: e_shop
+name: web_market
 description: Flutter eCommerce App using Firebase Firestore By Ahmed Achtibat
 
 version: 1.0.0+1
@@ -34,7 +34,7 @@ dev_dependencies:
 flutter_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "images/web-Store.png"
+  image_path: "images/WEBMARKET.jpg"
 
 
 flutter:

@@ -1,10 +1,10 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:e_shop/Address/address.dart';
-import 'package:e_shop/Admin/uploadItems.dart';
-import 'package:e_shop/Config/config.dart';
-import 'package:e_shop/Widgets/loadingWidget.dart';
-import 'package:e_shop/Widgets/orderCard.dart';
-import 'package:e_shop/Models/address.dart';
+import 'package:web_market/Address/address.dart';
+import 'package:web_market/Admin/uploadItems.dart';
+import 'package:web_market/Config/config.dart';
+import 'package:web_market/Widgets/loadingWidget.dart';
+import 'package:web_market/Widgets/orderCard.dart';
+import 'package:web_market/Models/address.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:fluttertoast/fluttertoast.dart';

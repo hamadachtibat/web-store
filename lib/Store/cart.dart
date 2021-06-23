@@ -1,15 +1,15 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:e_shop/Config/config.dart';
-import 'package:e_shop/Address/address.dart';
-import 'package:e_shop/Widgets/customAppBar.dart';
-import 'package:e_shop/Widgets/loadingWidget.dart';
-import 'package:e_shop/Models/item.dart';
-import 'package:e_shop/Counters/cartitemcounter.dart';
-import 'package:e_shop/Counters/totalMoney.dart';
-import 'package:e_shop/Widgets/myDrawer.dart';
+import 'package:web_market/Config/config.dart';
+import 'package:web_market/Address/address.dart';
+import 'package:web_market/Widgets/customAppBar.dart';
+import 'package:web_market/Widgets/loadingWidget.dart';
+import 'package:web_market/Models/item.dart';
+import 'package:web_market/Counters/cartitemcounter.dart';
+import 'package:web_market/Counters/totalMoney.dart';
+import 'package:web_market/Widgets/myDrawer.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:e_shop/Store/storehome.dart';
+import 'package:web_market/Store/storehome.dart';
 import 'package:provider/provider.dart';
 import '../main.dart';
 
