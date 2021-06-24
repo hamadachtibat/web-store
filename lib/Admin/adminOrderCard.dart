@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:web_market/Admin/adminOrderDetails.dart';
-import 'package:web_market/Models/item.dart';
-import 'package:web_market/Widgets/orderCard.dart';
+import 'package:webmarket/Admin/adminOrderDetails.dart';
+import 'package:webmarket/Models/item.dart';
+import 'package:webmarket/Widgets/orderCard.dart';
 import 'package:flutter/material.dart';
 
 import '../Store/storehome.dart';

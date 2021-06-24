@@ -1,10 +1,10 @@
 import 'dart:ffi';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:web_market/Config/config.dart';
-import 'package:web_market/Store/storehome.dart';
-import 'package:web_market/Counters/cartitemcounter.dart';
-import 'package:web_market/main.dart';
+import 'package:webmarket/Config/config.dart';
+import 'package:webmarket/Store/storehome.dart';
+import 'package:webmarket/Counters/cartitemcounter.dart';
+import 'package:webmarket/main.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';

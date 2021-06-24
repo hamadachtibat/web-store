@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:866685022412:android:2f8070db01a2c8fe42d269",
+        "mobilesdk_app_id": "1:866685022412:android:cd4ed08ffbd94c4b42d269",
         "android_client_info": {
           "package_name": "com.ahmed.eshop"
         }
@@ -29,6 +29,13 @@
             {
               "client_id": "866685022412-bn3b0ppa4l7c4kf0rft04v1josstp2il.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "866685022412-8o9qhfu6e1inct646flt62vnrpls4d39.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ahmed.eshop"
+              }
             }
           ]
         }

@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:web_market/Config/config.dart';
+import 'package:webmarket/Config/config.dart';
 
 class CartItemCounter extends ChangeNotifier
 {

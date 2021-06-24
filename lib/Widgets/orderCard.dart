@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:web_market/Orders/OrderDetailsPage.dart';
-import 'package:web_market/Models/item.dart';
+import 'package:webmarket/Orders/OrderDetailsPage.dart';
+import 'package:webmarket/Models/item.dart';
 import 'package:flutter/material.dart';
 import '../Store/storehome.dart';
 

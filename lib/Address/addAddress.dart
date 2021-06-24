@@ -1,8 +1,8 @@
 
-import 'package:web_market/Models/address.dart';
-import 'package:web_market/Store/storehome.dart';
-import 'package:web_market/Config/config.dart';
-import 'package:web_market/Widgets/customAppBar.dart';
+import 'package:webmarket/Models/address.dart';
+import 'package:webmarket/Store/storehome.dart';
+import 'package:webmarket/Config/config.dart';
+import 'package:webmarket/Widgets/customAppBar.dart';
 import 'package:flutter/material.dart';
 
 class AddAddress extends StatelessWidget {

@@ -7,7 +7,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="Web-Market"
+        android:label="webmarket"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
@@ -43,8 +43,5 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-1569743014889874~9216601509"/>
     </application>
 </manifest>

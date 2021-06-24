@@ -1,8 +1,8 @@
-import 'package:web_market/Widgets/customAppBar.dart';
-import 'package:web_market/Widgets/myDrawer.dart';
-import 'package:web_market/Models/item.dart';
+import 'package:webmarket/Widgets/customAppBar.dart';
+import 'package:webmarket/Widgets/myDrawer.dart';
+import 'package:webmarket/Models/item.dart';
 import 'package:flutter/material.dart';
-import 'package:web_market/Store/storehome.dart';
+import 'package:webmarket/Store/storehome.dart';
 
 
 class ProductPage extends StatefulWidget

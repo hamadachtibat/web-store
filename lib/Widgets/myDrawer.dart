@@ -1,11 +1,11 @@
-import 'package:web_market/Authentication/authenication.dart';
-import 'package:web_market/Config/config.dart';
-import 'package:web_market/Address/addAddress.dart';
-import 'package:web_market/Store/Search.dart';
-import 'package:web_market/Store/cart.dart';
-import 'package:web_market/Orders/myOrders.dart';
-import 'package:web_market/Store/storehome.dart';
-import 'package:web_market/main.dart';
+import 'package:webmarket/Authentication/authenication.dart';
+import 'package:webmarket/Config/config.dart';
+import 'package:webmarket/Address/addAddress.dart';
+import 'package:webmarket/Store/Search.dart';
+import 'package:webmarket/Store/cart.dart';
+import 'package:webmarket/Orders/myOrders.dart';
+import 'package:webmarket/Store/storehome.dart';
+import 'package:webmarket/main.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

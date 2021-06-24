@@ -1,13 +1,14 @@
 
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:web_market/Store/cart.dart';
-import 'package:web_market/Store/product_page.dart';
-import 'package:web_market/Counters/cartitemcounter.dart';
+import 'package:webmarket/Counters/cartitemcounter.dart';
+import 'package:webmarket/Store/cart.dart';
+import 'package:webmarket/Store/product_page.dart';
+import 'package:webmarket/Counters/cartitemcounter.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:provider/provider.dart';
-import 'package:web_market/Config/config.dart';
+import 'package:webmarket/Config/config.dart';
 import '../Widgets/loadingWidget.dart';
 import '../Widgets/myDrawer.dart';
 import '../Widgets/searchBox.dart';
