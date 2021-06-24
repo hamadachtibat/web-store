@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
     ],
      child: MaterialApp(
 
-         title: 'e-Shop',
+         title: 'Web-Market',
          debugShowCheckedModeBanner: false,
          theme: ThemeData(
            fontFamily: "Nunito",

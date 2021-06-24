@@ -40,7 +40,7 @@ class _StoreHomeState extends State<StoreHome> {
             ),
           ),
           title: Text(
-            "Web-Store",
+            "Web-Market",
             style: TextStyle(fontSize: 55.0, color: Colors.white, fontFamily: "Signatra"),
           ),
           centerTitle: true,

@@ -29,7 +29,7 @@ return AppBar(
       ),
     ),
   centerTitle: true,
-  title: Text('Web-Store',
+  title: Text('Web-Market',
     style: TextStyle(
         fontSize: 55,
         fontFamily: "Signatra",
