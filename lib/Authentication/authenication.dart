@@ -28,7 +28,7 @@ class _AuthenticScreenState extends State<AuthenticScreen> {
               ),
             ),
           ),
-          title: Text('Web-Store',
+          title: Text('Web-Market',
           style: TextStyle(
             fontSize: 55,
             fontFamily: "Signatra"

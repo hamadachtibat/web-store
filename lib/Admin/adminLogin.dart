@@ -22,7 +22,7 @@ class AdminSignInPage extends StatelessWidget {
           ),
         ),
         title: Text(
-          "e-Shop",
+          "Web-Market",
           style: TextStyle(fontSize: 55.0, color: Colors.white, fontFamily: "Signatra"),
         ),
         centerTitle: true,
@@ -100,7 +100,7 @@ class _AdminSignInScreenState extends State<AdminSignInScreen>
             SizedBox(
               height: 25.0,
             ),
-            RaisedButton(
+            ElevatedButton(
               onPressed: () {
                 _adminIDTextEditingController.text.isNotEmpty
                     && _passwordTextEditingController.text.isNotEmpty
@@ -113,7 +113,6 @@ class _AdminSignInScreenState extends State<AdminSignInScreen>
                     }
                 );
               },
-              color: Colors.pink,
               child: Text("Login", style: TextStyle(color: Colors.white),),
             ),
             SizedBox(

@@ -224,16 +224,17 @@ Widget sourceInfo(ItemModel model, BuildContext context,
                                     color: Colors.grey,
                                   ),
                                 ),
-                                Text(
-                                  "Dh ",
-                                  style: TextStyle(color: Colors.red, fontSize: 16.0),
-                                ),
+
                                 Text(
                                   (model.price).toString(),
                                   style: TextStyle(
                                     fontSize: 15.0,
                                     color: Colors.grey,
                                   ),
+                                ),
+                                Text(
+                                  "Dh ",
+                                  style: TextStyle(color: Colors.red, fontSize: 16.0),
                                 ),
                               ],
                             ),
