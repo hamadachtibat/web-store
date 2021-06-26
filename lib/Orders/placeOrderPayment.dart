@@ -143,7 +143,7 @@ class _PaymentPageState extends State<PaymentPage> {
     final smtpServer = gmail(username, password);
     final message = Message()
       ..from = Address(username, 'Ahmed')
-      ..recipients.add('achtibat.ahmed@gmail.com')
+      ..recipients.add('p.yacomed@gmail.com')
       ..subject = 'You Have a new Order :: 😀 :: ${DateTime.now()}'
       ..text = 'This is the plain text.\nThis is line 2 of the text part.'
       ..html = "<h1> WEB STORE || NEW ORDER ADMIN </h1>\n"
